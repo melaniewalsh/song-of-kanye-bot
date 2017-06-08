@@ -1,6 +1,6 @@
 # Song of Kanye Bot
 
-The first time I read Walt Whitman, I was like, damn, this sounds like Kanye West!
+The first time I read Walt Whitman (embarrassingly late in my literary career), I was like, damn, this sounds like Kanye West!
 
 This twitterbot makes that errant thought a reality and tweets a line of Walt Whitman's "Song of Myself" every 4 hours from Kanye West's perspective, replacing "myself" with "Kanye."
 
